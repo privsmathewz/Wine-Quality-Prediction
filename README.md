@@ -27,5 +27,15 @@ To classify wine as:
 6. Evaluate performance
 7. Analyse feature importance
 
+## Results
+- Logistic Regression Accuracy: **89.38%**
+- Random Forest Accuracy: **94.38%**
+
+## Top Features
+- alcohol
+- sulphates
+- density
+- volatile acidity
+- citric acid
 ## Key Insight
 Random Forest generally performs better than Logistic Regression for this tabular classification problem.
